@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @Shluffy or dogsmakemehappy on scratch
+- I mainly know javascript, and some css and html
