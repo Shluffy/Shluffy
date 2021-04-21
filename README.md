@@ -1,3 +1,3 @@
 - Hi, I’m @Shluffy or dogsmakemehappy on scratch
 - I mainly know javascript, and html, and some css
-- To reach me, make a discussion at [Shluffy/Shluffy] (https://github.com/Shluffy/Shluffy/discussions)
+- To reach me, make a discussion at Shluffy/Shluffy
