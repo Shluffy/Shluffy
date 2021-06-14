@@ -2,10 +2,11 @@
 
 ## Table Of Contents
 
-- [Updates]()
-- [How To Reach Me (contact me)]()
-- [About Me]()
-- [About me / Github]()
+- [Updates](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#updates)
+- [How To Reach Me (contact me)](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#how-to-reach-me-contact-me)
+- [About Me](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#about-me)
+- [About me / Github](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#github)
+- [About me / Scratch](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#scratch)
 
 ## Updates
 
