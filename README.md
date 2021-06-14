@@ -2,18 +2,7 @@
 
 ## Table Of Contents
 
-- [Updates](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#updates)
-- [How To Reach Me (contact me)](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#how-to-reach-me-contact-me)
-- [About Me](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#about-me)
-- [About me - Github](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#github)
-- [About me - Scratch](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#scratch)
-- [About me - Xbox Live](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#xbox-live)
-- [Gaming](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#xbox-live)
-- [Gaming - Pokemon Sword & Shield](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#pokemon-sword--shield)
-- [Gaming - Pokemon Go](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#pokemon-sword--shield)
-- [Gaming - Pokemon Home](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#pokemon-home)
-- [Gaming - Minecraft](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#minecraft)
-- [Other Things](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#other-things)
+[Updates](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#updates) - [How To Reach Me (contact me)](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#how-to-reach-me-contact-me) - [About Me](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#about-me) - [About me - Github](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#github) - [About me - Scratch](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#scratch) - [About me - Xbox Live](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#xbox-live) - [Gaming](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#xbox-live) - [Gaming - Pokemon Sword & Shield](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#pokemon-sword--shield) - [Gaming - Pokemon Go](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#pokemon-sword--shield) - [Gaming - Pokemon Home](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#pokemon-home) - [Gaming - Minecraft](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#minecraft) - [Other Things](https://github.com/Shluffy/Shluffy/blob/Rewrite-README.md/README.md#other-things)
 
 ## Updates
 
