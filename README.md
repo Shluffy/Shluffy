@@ -1,6 +1,19 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shluffy&label=Profile%20views&color=0e75b6&style=flat" alt="shluffy" /> </p>
 
-## How To reach Me
+## Table Of Contents
+
+- [Updates]()
+- [How To Reach Me (contact me)]()
+- [About Me]()
+- [About me / Github]()
+
+## Updates
+
+- I have started to work on a scratch project about the scratch font. Coming soon. 
+
+Stay tuned for more updates.
+
+## How To reach Me (Contact Me)
 
 - Make a discussion at [Shluffy/Shluffy](https://github.com/shluffy/shluffy/discussions).
 - Comment on my scratch profile over [here](https://scratch.mit.edu/users/dogsmakemehappy/).
