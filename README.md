@@ -6,7 +6,7 @@
 
 ## Updates
 
-- I have started to work on a scratch project about the scratch font. Coming soon. 
+- I have released another scratch project. See it [here](https://scratch.mit.edu/projects/543331523/).
 
 ## How To reach Me (Contact Me)
 
