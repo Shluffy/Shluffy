@@ -2,13 +2,15 @@
 
 ## Updates
 
+- Working on a project that will allow you to type commit stuff from a browser `prompt`.
 - I have released another scratch project. See it [here](https://scratch.mit.edu/projects/543331523/).
 
 ## How To reach Me (Contact Me)
 
-- Make a discussion at [Shluffy/Shluffy](https://github.com/shluffy/shluffy/discussions).
+- Make a discussion [Here (Shluffy/Shluffy new discussion)](https://github.com/shluffy/shluffy/discussions/new).
 - Comment on my scratch profile over [here](https://scratch.mit.edu/users/dogsmakemehappy/).
 - Email Me: ShluffyMonster@outlook.com
+- Contact My Alt: [@ShluffyMonster](https://github.com/shluffymonster)
 
 ## About Me
 
