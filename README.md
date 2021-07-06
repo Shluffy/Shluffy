@@ -33,7 +33,7 @@ I play as `Shluffy` in shield and `shluffy_2` in sword. If you want to know if I
 I play pokemon go fairly often. I am on team valor (red).
 
 #### Pokemon Home
-I use pokemon home, and my name on mobile is `shluffy`, although I am probably going to change that soon.
+I use pokemon home, and my name on mobile is `shluffyHome`.
 
 #### Minecraft
 I play minecraft bedrock 1.17, and play on the seed `shluffy`. <br>
