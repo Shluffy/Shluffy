@@ -4,15 +4,18 @@
 
 - Working on a project that will allow you to type commit stuff from a browser `prompt`.
 - I have released another scratch project. See it [here](https://scratch.mit.edu/projects/543331523/).
+<details><summary>How to reach me:</summary>
 
-## How To reach Me (Contact Me)
+  ## How To reach Me (Contact Me)
 
 - Make a discussion [Here (Shluffy/Shluffy new discussion)](https://github.com/shluffy/shluffy/discussions/new).
 - Comment on my scratch profile over [here](https://scratch.mit.edu/users/dogsmakemehappy/).
 - Email Me: ShluffyMonster@outlook.com
 - Contact My Alt: [@ShluffyMonster](https://github.com/shluffymonster)
+</details>
+<details><summary>Read about me:</summary>
 
-## About Me
+  ## About Me
 
 ### Github
 I Make bookmarklets for use on the [scratch website](https://scratch.mit.edu). You can find them at [here](https://scratch-bookmarklets.github.io/bookmarklets.html) and the code open source [here](https://github.com/scratch-bookmarklets/scratch-bookmarklets.github.io/). <br>
@@ -20,8 +23,11 @@ I am a member of the forum helpers org, and contribute to the website at https:/
 
 ### Scratch
 I am part of the forum helpers, all though I am less active on the scratch forums right now.
+</details>
 
-### Gaming
+<details><summary>Read About Me In Gaming:</summary>
+
+  ### Gaming
 
 #### Xbox Live
 ShluffyMonster On xbox live, although I only play minecraft.
@@ -39,5 +45,7 @@ I use pokemon home, and my name on mobile is `shluffyHome`.
 I play minecraft bedrock 1.17, and play on the seed `shluffy`. <br>
 Fun Fact: I also used to play 1.16 on the seed `shluffy`.
 
+ </details>
+  
 ## Other Things
 Thats really all. You can contact me with stuff you want me to add, or stuff of that sort.
