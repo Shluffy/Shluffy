@@ -21,10 +21,10 @@ I am a member of the forum helpers org, and contribute to the website at https:/
 ### Scratch
 I am part of the forum helpers, all though I am less active on the scratch forums right now.
 
-### Xbox Live
-ShluffyMonster On xbox live, although I only play minecraft.
-
 ### Gaming
+
+#### Xbox Live
+ShluffyMonster On xbox live, although I only play minecraft.
 
 #### Pokemon Sword & Shield:
 I play as `Shluffy` in shield and `shluffy_2` in sword. If you want to know if I have something, just contact me. You can also contact me about a trade.
