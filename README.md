@@ -2,7 +2,7 @@
 
 ## Updates
 
-- Working on a project that will allow you to type commit stuff from a browser `prompt`.
+- Playing Pokemon.
 - I have released another scratch project. See it [here](https://scratch.mit.edu/projects/543331523/).
 <details><summary>How to reach me:</summary>
 
