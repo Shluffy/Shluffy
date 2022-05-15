@@ -11,7 +11,6 @@
 - Make a discussion [Here (Shluffy/Shluffy new discussion)](https://github.com/shluffy/shluffy/discussions/new).
 - Comment on my scratch profile over [here](https://scratch.mit.edu/users/dogsmakemehappy/).
 - Email Me: ShluffyMonster@outlook.com
-- Contact My Alt: [@ShluffyMonster](https://github.com/shluffymonster)
 </details>
 <details><summary>Read about me:</summary>
 
